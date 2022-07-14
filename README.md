@@ -3,7 +3,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Sankalp2002&color=brightgreen">  
 ### Hi there 👋
 
-- 🔭 I’m currently working on myself.
+- 🔭 I’m currently a B.Tech. (IT) 4th year undergraduate in Indian Institute of Information Technology, Allahabad.
 - 🌱 I’m currently learning being my best.
 - 👯 I’m looking to collaborate on life.
 - 🤔 I’m looking for help with socialising.
@@ -15,7 +15,6 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/sankalpr-iiita/"></a>
 - <a href="https://leetcode.com/SankalpRajendran/">LeetCode</a> 😍
 - <a href="https://codeforces.com/profile/FindingMe2022/">Codeforces</a> 🙃
-- <a href="https://www.linkedin.com/in/sankalpr-iiita/">LinkedIn</a> 😇
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sankalp2002&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2002&langs_count=5&theme=tokyonight)]()
