@@ -1,4 +1,4 @@
-[![Linkedin: Sankalp](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankalpr-iiita/)](https://www.linkedin.com/in/sankalpr-iiita/)
+[![Linkedin: Sankalp](https://img.shields.io/badge/-Sankalp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankalpr-iiita/)](https://www.linkedin.com/in/sankalpr-iiita/)
 ![GitHub followers](https://img.shields.io/github/followers/Sankalp2002?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Sankalp2002&color=brightgreen">  
 ### Hi there 👋
